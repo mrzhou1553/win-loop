@@ -1,0 +1,13 @@
+/target/
+/recordings/
+
+# Local IDE settings and private configuration
+/.idea/
+/.vscode/
+.env
+.env.*
+!.env.example
+
+# Generated Python cache
+__pycache__/
+*.pyc
